@@ -1,5 +1,5 @@
-window.load = () => {
-	if ('ServiceWorker' in navigator) {
+window.onload = () => {
+	if ('serviceWorker' in navigator) {
 		navigator.serviceWorker
 			.register('./sw.js')
 			.then((reg) => {
