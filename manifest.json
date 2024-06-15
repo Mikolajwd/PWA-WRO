@@ -1,0 +1,29 @@
+{
+	"name": "podyplomowe",
+	"short_name": "podyplomowe",
+	"lang": "pl",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#fff",
+	"theme_color": "#fff",
+	"icon": [
+		{
+			"src": "./images/hello-icon-128.png"
+		},
+		{
+			"src": "./images/hello-icon-144.png"
+		},
+		{
+			"src": "./images/hello-icon-152.png"
+		},
+		{
+			"src": "./images/hello-icon-192.png"
+		},
+		{
+			"src": "./images/hello-icon-256.png"
+		},
+		{
+			"src": "./images/hello-icon-512.png"
+		}
+	]
+}
